@@ -1,0 +1,101 @@
+@media (max-height: 800px){
+  font-size: 12px;
+}
+.body-container {
+  background-color: #F4FBF3;
+}
+#header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  min-height: 75px;
+  height: 50%;
+  background-color: #9999CC;
+  justify-content: space-around;
+}
+nav {
+  flex-direction: column;
+}
+.flex-container {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  margin-top: 50px;
+  background-color: #51DA67;
+}
+#header-img {
+  
+}
+#nav-bar {
+
+}
+.nav-link {
+  display: block;
+  text-align: right;
+}
+.top-nav {
+  
+}
+.top-nav a {
+  margin: 10px;
+  border-radius: 5px;
+  float: left;
+  display: block;
+  text-align: center;
+  padding: 14px 16px;
+  border-bottom: 3px solid transparent;
+  text-decoration: none;
+}
+ul {
+  list-style-type: none;
+}
+#video {
+  
+}
+#form {
+  
+}
+.textholder {
+  
+}
+.label-left {
+  display: inline-block;
+  text-align: left;
+  vertical-align: top;
+  width: 10%;
+}
+.input-right {
+  display: inline-block;
+  text-align: left;
+  width: 49%;
+}
+#name {
+  
+}
+#email {
+  
+}
+#phonenumber {
+  
+}
+#topic {
+  
+}
+#message {
+  
+}
+#submit {
+  
+}
+#the_recorder {
+  
+}
+#different_types {
+  
+}
+#buy {
+  
+}
+#contact {
+  
+}
